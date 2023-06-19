@@ -1,11 +1,11 @@
-About r-censusgeography
-=======================
+About r-censusgeography-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-censusgeography-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=censusGeography
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-censusgeography-feedstock/blob/main/LICENSE.txt)
 
 Summary: Converts the United States Census geographic code for city, state (FIP and ICP), region, and birthplace, into the name of the region. e.g. takes an input of Census city code 5330 to it's actual city, Philadelphia. Will return NA for code that doesn't correspond to real location.
 
